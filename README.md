@@ -24,11 +24,11 @@ $ git clone https://github.com/azezezaaa/SMA_TurtleBot3_Individual-Navigation
 $ cd ~/catkin_ws && catkin_make && source devel/setup.bash
 $ rospack profile
 ```
-## (7) Launch turtlebots simulation:
+## (4) Launch turtlebots simulation:
 ```
 $ roslaunch SMA_TurtleBot3_Individual-Navigation simulation.launch
 ```
-## (8) Run Teleoperation:
+## (5) Run Teleoperation:
 Open another terminal and write: 
 1. For robot1
 ```
